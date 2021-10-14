@@ -184,3 +184,11 @@ h2 {
   transform: translateY(5px);
 }
 
+p {
+  padding:4em;
+  font-size:14pt;
+}
+
+.tableauPlaceholder {
+  margin:auto;
+}
