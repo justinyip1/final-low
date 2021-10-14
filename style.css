@@ -27,6 +27,7 @@ to this section's matching END comment to see page-specific styles.
 }
 
 /* Basic page style resets */
+
 * {
   box-sizing: border-box;
 }
@@ -182,3 +183,4 @@ h2 {
 .dipped {
   transform: translateY(5px);
 }
+
